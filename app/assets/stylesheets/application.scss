@@ -2,7 +2,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-$font: Lato, Arial, sans-serif;
+$font: inherit;
 
 html { font-family: $font; font-size:100%; background:#112326; }
 body { -webkit-font-smoothing:antialiased}
