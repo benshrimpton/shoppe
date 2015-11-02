@@ -12,6 +12,8 @@ gem 'faker'
 gem 'shoppe'
 gem 'thin'
 
+gem 'bootstrap-sass', '~> 3.3.5'
+
 group :development do
   gem 'capistrano'
 end
